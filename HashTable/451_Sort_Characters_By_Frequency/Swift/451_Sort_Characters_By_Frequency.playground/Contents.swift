@@ -14,6 +14,7 @@ func frequencySort(_ s: String) -> String {
     let result = sortedTuples.reduce("") { result, tuple in
         var part = ""
         for _ in 0..<tuple.value {
+            // 4. We work with characters, but result is String, so convert to String
             part += String(tuple.key)
         }
         return result + part
@@ -22,7 +23,7 @@ func frequencySort(_ s: String) -> String {
     return result
 }
 
-// 4. test
+// 5. test
 assert(frequencySort("tree") == "eert", "Frequency sort does not work")
 assert(frequencySort("cccaaa") == "cccaaa", "Frequency sort does not work")
 assert(frequencySort("Aabb") == "bbAa", "Frequency sort does not work")
