@@ -4,7 +4,7 @@ My Solutions to Leet Code Problems. Code written in Swift and Java.
 
 1) 16 of June 2019.  
 451.Sort Characters By Frequency.   
-https://leetcode.com/problems/sort-characters-by-frequency/
+https://leetcode.com/problems/sort-characters-by-frequency/  
 [Swift Solution Done](https://github.com/danilovdev/LeetCodeProblems/blob/master/HashTable/451_Sort_Characters_By_Frequency/Swift/451_Sort_Characters_By_Frequency.playground/Contents.swift)
 
 2) 17 of June 2019.  
