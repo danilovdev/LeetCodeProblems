@@ -17,3 +17,8 @@ https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/
 https://leetcode.com/problems/degree-of-an-array/  
 [Swift Solution Done](https://github.com/danilovdev/LeetCodeProblems/blob/master/Array/697_Degree_of_an_Array/Swift/697_Degree_of_an_Array.playground/Contents.swift)
 
+4) 19 of June 2019.  
+136.Single Number.  
+https://leetcode.com/problems/single-number/  
+[Swift Solution Done](https://github.com/danilovdev/LeetCodeProblems/blob/master/BitManipulation/136_Single_Number/Swift/136_Single_Number.playground/Contents.swift)
+
