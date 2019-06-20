@@ -22,3 +22,8 @@ https://leetcode.com/problems/degree-of-an-array/
 https://leetcode.com/problems/single-number/  
 [Swift Solution Done](https://github.com/danilovdev/LeetCodeProblems/blob/master/BitManipulation/136_Single_Number/Swift/136_Single_Number.playground/Contents.swift)
 
+5) 20 of June 2019.  
+509.Fibonacci Number.  
+https://leetcode.com/problems/fibonacci-number/  
+[Swift Solution Done](https://github.com/danilovdev/LeetCodeProblems/blob/master/Array/509_Fibonacci_Number/Swift/509_Fibonacci_Number.playground/Contents.swift)
+
