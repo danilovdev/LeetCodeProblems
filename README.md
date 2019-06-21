@@ -27,3 +27,8 @@ https://leetcode.com/problems/single-number/
 https://leetcode.com/problems/fibonacci-number/  
 [Swift Solution Done](https://github.com/danilovdev/LeetCodeProblems/blob/master/Array/509_Fibonacci_Number/Swift/509_Fibonacci_Number.playground/Contents.swift)
 
+6) 21 of June 2019.  
+242.Valid Anagram.  
+https://leetcode.com/problems/valid-anagram/  
+[Swift Solution Done](https://github.com/danilovdev/LeetCodeProblems/blob/master/HashTable/242_Valid_Anagram/Swift/242_Valid_Anagram.playground/Contents.swift)
+
