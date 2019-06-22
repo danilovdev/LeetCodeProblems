@@ -32,3 +32,8 @@ https://leetcode.com/problems/fibonacci-number/
 https://leetcode.com/problems/valid-anagram/  
 [Swift Solution Done](https://github.com/danilovdev/LeetCodeProblems/blob/master/HashTable/242_Valid_Anagram/Swift/242_Valid_Anagram.playground/Contents.swift)
 
+7) 22 of June 2019.  
+322.Coin Change.  
+https://leetcode.com/problems/coin-change/  
+[Swift Solution Done](https://github.com/danilovdev/LeetCodeProblems/blob/master/DynamicProgramming/322_Coin_Change/Swift/322_Coin_Change.playground/Contents.swift)
+
