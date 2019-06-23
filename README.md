@@ -37,3 +37,9 @@ https://leetcode.com/problems/valid-anagram/
 https://leetcode.com/problems/coin-change/  
 [Swift Solution Done](https://github.com/danilovdev/LeetCodeProblems/blob/master/DynamicProgramming/322_Coin_Change/Swift/322_Coin_Change.playground/Contents.swift)
 
+8) 23 of June 2019.
+412.Fizz Buzz.  
+https://leetcode.com/problems/fizz-buzz/  
+[Swift Solution Done](https://github.com/danilovdev/LeetCodeProblems/blob/master/General/412_Fizz_Buzz/Swift/412_Fizz_Buzz.playground/Contents.swift)
+
+
