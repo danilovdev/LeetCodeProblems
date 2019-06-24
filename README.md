@@ -42,4 +42,9 @@ https://leetcode.com/problems/coin-change/
 https://leetcode.com/problems/fizz-buzz/  
 [Swift Solution Done](https://github.com/danilovdev/LeetCodeProblems/blob/master/General/412_Fizz_Buzz/Swift/412_Fizz_Buzz.playground/Contents.swift)
 
+9) 24 of June 2019.  
+204.Count Primes  
+https://leetcode.com/problems/count-primes/  
+[Swift Solution Done](https://github.com/danilovdev/LeetCodeProblems/blob/master/Math/204_Count_Primes/Swift/204_Count_Primes.playground/Contents.swift)
+
 
