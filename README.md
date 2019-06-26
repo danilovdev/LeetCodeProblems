@@ -47,4 +47,8 @@ https://leetcode.com/problems/fizz-buzz/
 https://leetcode.com/problems/count-primes/  
 [Swift Solution Done](https://github.com/danilovdev/LeetCodeProblems/blob/master/Math/204_Count_Primes/Swift/204_Count_Primes.playground/Contents.swift)
 
+10) 25 of June 2019.  
+100.Same Tree  
+https://leetcode.com/problems/same-tree/  
+[Swift Solution Done](https://github.com/danilovdev/LeetCodeProblems/blob/master/Tree/100_Same_Tree/100_Same_Tree.playground/Contents.swift)
 
