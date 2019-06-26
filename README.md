@@ -57,3 +57,8 @@ https://leetcode.com/problems/same-tree/
 https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/   
 [Swift Solution Done](https://github.com/danilovdev/LeetCodeProblems/blob/master/Stack/921_Minimum_Add_to_Make_Parentheses_Valid/Swift/921_Minimum_Add_to_Make_Parentheses_Valid.playground/Contents.swift)
 
+12) 27 of June 2019.  
+66.Plus One  
+https://leetcode.com/problems/plus-one/  
+[Swift Solution Done](https://github.com/danilovdev/LeetCodeProblems/blob/master/Array/66_Plus_One/Swift/66_Plus_One.playground/Contents.swift)
+
