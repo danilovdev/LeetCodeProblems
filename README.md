@@ -52,3 +52,8 @@ https://leetcode.com/problems/count-primes/
 https://leetcode.com/problems/same-tree/  
 [Swift Solution Done](https://github.com/danilovdev/LeetCodeProblems/blob/master/Tree/100_Same_Tree/100_Same_Tree.playground/Contents.swift)
 
+11) 26 of June 2019.  
+921.Minimum Add to Make Parentheses Valid  
+https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/   
+[Swift Solution Done](https://github.com/danilovdev/LeetCodeProblems/blob/master/Stack/921_Minimum_Add_to_Make_Parentheses_Valid/Swift/921_Minimum_Add_to_Make_Parentheses_Valid.playground/Contents.swift)
+
