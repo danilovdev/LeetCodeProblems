@@ -64,6 +64,9 @@ https://leetcode.com/problems/plus-one/
 
 13) 28 of June 2019  
 387.First Unique Character in a String  
+https://leetcode.com/problems/first-unique-character-in-a-string/  
+[Swift Solution Done](https://github.com/danilovdev/LeetCodeProblems/blob/master/HashTable/387_First_Unique_Character_in_a_String/Swift/387_First_Unique_Character_in_a_String.playground/Contents.swift)
+
 
 14) 29 of June 2019  
 384.Shuffle an Array  
