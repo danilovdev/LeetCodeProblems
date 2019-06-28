@@ -70,6 +70,9 @@ https://leetcode.com/problems/first-unique-character-in-a-string/
 
 14) 29 of June 2019  
 384.Shuffle an Array  
+https://leetcode.com/problems/shuffle-an-array/   
+[Swift Solution Done](https://github.com/danilovdev/LeetCodeProblems/blob/master/Array/384_Shuffle_an_Array/Swift/384_Shuffle_an_Array.playground/Contents.swift)
+
 
 15) 30 of June 2019  
 20.Valid Parentheses  
