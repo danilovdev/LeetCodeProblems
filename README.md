@@ -62,3 +62,8 @@ https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/
 https://leetcode.com/problems/plus-one/  
 [Swift Solution Done](https://github.com/danilovdev/LeetCodeProblems/blob/master/Array/66_Plus_One/Swift/66_Plus_One.playground/Contents.swift)
 
+13) 28 of June 2019  
+387.First Unique Character in a String  
+
+14) 29 of June 2019  
+384.Shuffle an Array  
