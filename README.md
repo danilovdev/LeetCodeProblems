@@ -67,3 +67,6 @@ https://leetcode.com/problems/plus-one/
 
 14) 29 of June 2019  
 384.Shuffle an Array  
+
+15) 30 of June 2019  
+20.Valid Parentheses  
