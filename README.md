@@ -76,3 +76,6 @@ https://leetcode.com/problems/shuffle-an-array/
 
 15) 30 of June 2019  
 20.Valid Parentheses  
+
+16) 1 of July 2019  
+796.Rotate String
