@@ -76,6 +76,10 @@ https://leetcode.com/problems/shuffle-an-array/
 
 15) 30 of June 2019  
 20.Valid Parentheses  
+https://leetcode.com/problems/valid-parentheses/  
+[Swift Solution Done](https://github.com/danilovdev/LeetCodeProblems/blob/master/Stack/20_Valid_Parentheses/Swift/20_Valid_Parentheses.playground/Contents.swift)
+
+
 
 16) 1 of July 2019  
 796.Rotate String
