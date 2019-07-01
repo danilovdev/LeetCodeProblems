@@ -83,3 +83,7 @@ https://leetcode.com/problems/valid-parentheses/
 
 16) 1 of July 2019  
 796.Rotate String
+
+17) 2 of July 2019
+268.Missing Number
+
