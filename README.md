@@ -67,22 +67,20 @@ https://leetcode.com/problems/plus-one/
 https://leetcode.com/problems/first-unique-character-in-a-string/  
 [Swift Solution Done](https://github.com/danilovdev/LeetCodeProblems/blob/master/HashTable/387_First_Unique_Character_in_a_String/Swift/387_First_Unique_Character_in_a_String.playground/Contents.swift)
 
-
 14) 29 of June 2019  
 384.Shuffle an Array  
 https://leetcode.com/problems/shuffle-an-array/   
 [Swift Solution Done](https://github.com/danilovdev/LeetCodeProblems/blob/master/Array/384_Shuffle_an_Array/Swift/384_Shuffle_an_Array.playground/Contents.swift)
-
 
 15) 30 of June 2019  
 20.Valid Parentheses  
 https://leetcode.com/problems/valid-parentheses/  
 [Swift Solution Done](https://github.com/danilovdev/LeetCodeProblems/blob/master/Stack/20_Valid_Parentheses/Swift/20_Valid_Parentheses.playground/Contents.swift)
 
-
-
 16) 1 of July 2019  
-796.Rotate String
+796.Rotate String  
+https://leetcode.com/problems/rotate-string/      
+[Swift Solution Done](https://github.com/danilovdev/LeetCodeProblems/blob/master/String/796_Rotate_String/Swift/796_Rotate_String.playground/Contents.swift)
 
 17) 2 of July 2019  
 268.Missing Number
