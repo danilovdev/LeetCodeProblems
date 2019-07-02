@@ -43,7 +43,7 @@ https://leetcode.com/problems/fizz-buzz/
 [Swift Solution Done](https://github.com/danilovdev/LeetCodeProblems/blob/master/General/412_Fizz_Buzz/Swift/412_Fizz_Buzz.playground/Contents.swift)
 
 9) 24 of June 2019.  
-204.Count Primes  
+204.Count Primes 
 https://leetcode.com/problems/count-primes/  
 [Swift Solution Done](https://github.com/danilovdev/LeetCodeProblems/blob/master/Math/204_Count_Primes/Swift/204_Count_Primes.playground/Contents.swift)
 
@@ -83,5 +83,14 @@ https://leetcode.com/problems/rotate-string/
 [Swift Solution Done](https://github.com/danilovdev/LeetCodeProblems/blob/master/String/796_Rotate_String/Swift/796_Rotate_String.playground/Contents.swift)
 
 17) 2 of July 2019  
-268.Missing Number
+268.Missing Number  
+https://leetcode.com/problems/missing-number/  
+[Swift Solution Done](https://github.com/danilovdev/LeetCodeProblems/blob/master/Array/268_Missing_Number/Swift/268_Missing_Number.playground/Contents.swift)
+
+18) 3 of July 2019  
+198.House Robber  
+
+19) 4 of July 2019  
+300.Longest Increasing Subsequence  
+
 
