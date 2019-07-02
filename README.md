@@ -94,6 +94,6 @@ https://leetcode.com/problems/missing-number/
 300.Longest Increasing Subsequence  
 
 20) 5 of July 2019  
-1002. Find Common Characters  
+1002.Find Common Characters  
 
 
