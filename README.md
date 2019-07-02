@@ -97,8 +97,8 @@ https://leetcode.com/problems/missing-number/
 1002.Find Common Characters  
 
 21) 6 of July 2019  
-334.Increasing Triplet Subsequence  
+334.Increasing Triplet Subsequence   
 
-21) 7 of July 2019  
-102. Binary Tree Level Order Traversal  
+21) 7 of July 2019   
+102.Binary Tree Level Order Traversal   
 
