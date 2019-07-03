@@ -94,6 +94,8 @@ https://leetcode.com/problems/house-robber/
 
 19) 4 of July 2019  
 300.Longest Increasing Subsequence  
+https://leetcode.com/problems/longest-increasing-subsequence/  
+[Swift Solution Done](https://github.com/danilovdev/LeetCodeProblems/blob/master/DynamicProgramming/300_Longest_Increasing_Subsequence/Swift/300_Longest_Increasing_Subsequence.playground/Contents.swift)
 
 20) 5 of July 2019  
 1002.Find Common Characters  
