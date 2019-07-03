@@ -87,8 +87,10 @@ https://leetcode.com/problems/rotate-string/
 https://leetcode.com/problems/missing-number/  
 [Swift Solution Done](https://github.com/danilovdev/LeetCodeProblems/blob/master/Array/268_Missing_Number/Swift/268_Missing_Number.playground/Contents.swift)
 
-18) 3 of July 2019  
+18) 3 of July 2019    
 198.House Robber  
+https://leetcode.com/problems/house-robber/   
+[Swift Solution Done](https://github.com/danilovdev/LeetCodeProblems/blob/master/DynamicProgramming/198_House_Robber/Swift/198_House_Robber.playground/Contents.swift)
 
 19) 4 of July 2019  
 300.Longest Increasing Subsequence  
