@@ -121,7 +121,7 @@ https://leetcode.com/problems/longest-increasing-subsequence/
 26) 12 of July 2019  
 215.Kth Largest Element in an Array
 
-27) 13 of July 2019
+27) 13 of July 2019  
 389.Find the Difference
 
 
