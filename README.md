@@ -99,6 +99,8 @@ https://leetcode.com/problems/longest-increasing-subsequence/
 
 20) 5 of July 2019  
 1002.Find Common Characters  
+https://leetcode.com/problems/find-common-characters/  
+[Swift Solution Done](https://github.com/danilovdev/LeetCodeProblems/blob/master/Array/1002_Find_Common_Characters/Swift/1002_Find_Common_Characters.playground/Contents.swift)
 
 21) 6 of July 2019  
 334.Increasing Triplet Subsequence   
