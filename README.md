@@ -109,6 +109,8 @@ https://leetcode.com/problems/increasing-triplet-subsequence/
 
 21) 7 of July 2019   
 102.Binary Tree Level Order Traversal   
+https://leetcode.com/problems/binary-tree-level-order-traversal/  
+[Swift Solution Done](https://github.com/danilovdev/LeetCodeProblems/blob/master/Tree/102_Binary_Tree_Level_Order_Traversal/Swift/102_Binary_Tree_Level_Order_Traversal.playground/Contents.swift)
 
 22) 8 of July 2019  
 62.Unique Paths  
