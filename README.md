@@ -105,7 +105,7 @@ https://leetcode.com/problems/find-common-characters/
 21) 6 of July 2019  
 334.Increasing Triplet Subsequence   
 https://leetcode.com/problems/increasing-triplet-subsequence/  
-(https://github.com/danilovdev/LeetCodeProblems/blob/master/Array/334_Increasing_Triplet_Subsequence/Swift/334_Increasing_Triplet_Subsequence.playground/Contents.swift)
+[Swift Solution Done](https://github.com/danilovdev/LeetCodeProblems/blob/master/Array/334_Increasing_Triplet_Subsequence/Swift/334_Increasing_Triplet_Subsequence.playground/Contents.swift)
 
 21) 7 of July 2019   
 102.Binary Tree Level Order Traversal   
