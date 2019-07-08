@@ -132,4 +132,20 @@ https://leetcode.com/problems/unique-paths/
 27) 13 of July 2019  
 389.Find the Difference
 
+28) 14 of July 2019  
+121. Best Time to Buy and Sell Stock
+
+29) 15 of July 2019
+1108. Defanging an IP Address
+
+30) 16 of July 2019 
+424. Longest Repeating Character Replacement  
+
+31) 17 of July 2019  
+567. Permutation in String  
+
+31) 18 of July 2019  
+438. Find All Anagrams in a String 
+
+
 
