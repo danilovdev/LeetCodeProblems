@@ -114,6 +114,8 @@ https://leetcode.com/problems/binary-tree-level-order-traversal/
 
 22) 8 of July 2019  
 62.Unique Paths  
+https://leetcode.com/problems/unique-paths/  
+[Swift Solution Done](https://github.com/danilovdev/LeetCodeProblems/blob/master/DynamicProgramming/62_Unique_Paths/Swift/62_Unique_Paths.playground/Contents.swift)
 
 23) 9 of July 2019  
 49.Group Anagrams  
