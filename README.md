@@ -151,5 +151,8 @@ https://leetcode.com/problems/maximum-length-of-pair-chain/
 31) 18 of July 2019  
 438.Find All Anagrams in a String 
 
+32) 19 of July 2019  
+491.Increasing Subsequences
+
 
 
