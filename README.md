@@ -123,7 +123,9 @@ https://leetcode.com/problems/group-anagrams/
 [Swift Solution Done](https://github.com/danilovdev/LeetCodeProblems/blob/master/HashTable/49_Group_Anagrams/Swift/49_Group_Anagrams.playground/Contents.swift)
 
 24) 10 of July 2019   
-646.Maximum Length of Pair Chain   
+646.Maximum Length of Pair Chain  
+https://leetcode.com/problems/maximum-length-of-pair-chain/   
+[Swift Solution Done](https://github.com/danilovdev/LeetCodeProblems/blob/master/DynamicProgramming/646_Maximum_Length_of_Pair_Chain/Swift/646_Maximum_Length_of_Pair_Chain.playground/Contents.swift)
 
 25) 11 of July 2019   
 63.Unique Paths II  
