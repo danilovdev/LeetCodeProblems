@@ -139,10 +139,10 @@ https://leetcode.com/problems/maximum-length-of-pair-chain/
 28) 14 of July 2019  
 121.Best Time to Buy and Sell Stock
 
-29) 15 of July 2019
+29) 15 of July 2019  
 1108.Defanging an IP Address
 
-30) 16 of July 2019 
+30) 16 of July 2019   
 424.Longest Repeating Character Replacement  
 
 31) 17 of July 2019  
