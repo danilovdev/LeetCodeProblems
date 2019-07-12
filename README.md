@@ -133,7 +133,9 @@ https://leetcode.com/problems/unique-paths-ii/
 [Swift Solution Done](https://github.com/danilovdev/LeetCodeProblems/blob/master/DynamicProgramming/63_Unique_Paths_II/Swift/63_Unique_Paths_II.playground/Contents.swift)
 
 26) 12 of July 2019  
-215.Kth Largest Element in an Array
+215.Kth Largest Element in an Array  
+https://leetcode.com/problems/kth-largest-element-in-an-array/  
+[Swift Solution Done](https://github.com/danilovdev/LeetCodeProblems/blob/master/Heap/215_Kth_Largest_Element_in_an_Array/Swift/215_Kth_Largest_Element_in_an_Array.playground/Contents.swift)
 
 27) 13 of July 2019  
 389.Find the Difference
