@@ -158,7 +158,19 @@ https://leetcode.com/problems/defanging-an-ip-address/
 438.Find All Anagrams in a String 
 
 32) 19 of July 2019  
-491.Increasing Subsequences
+491.Increasing Subsequences  
+
+33) 20 of July 2019  
+703.Kth Largest Element in a Stream 
+
+34) 21 of July 2019 
+257.Binary Tree Paths  
+
+35) 22 of July 2019  
+409.Longest Palindrome 
+
+36) 23 of July 2019 
+836.Rectangle Overlap  
 
 
 
