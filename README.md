@@ -155,15 +155,15 @@ https://leetcode.com/problems/defanging-an-ip-address/
 567.Permutation in String  
 
 31) 18 of July 2019  
-438.Find All Anagrams in a String 
+438.Find All Anagrams in a String  
 
 32) 19 of July 2019  
 491.Increasing Subsequences  
 
 33) 20 of July 2019  
-703.Kth Largest Element in a Stream 
+703.Kth Largest Element in a Stream  
 
-34) 21 of July 2019 
+34) 21 of July 2019  
 257.Binary Tree Paths  
 
 35) 22 of July 2019  
