@@ -144,7 +144,9 @@ https://leetcode.com/problems/kth-largest-element-in-an-array/
 121.Best Time to Buy and Sell Stock
 
 29) 15 of July 2019  
-1108.Defanging an IP Address
+1108.Defanging an IP Address  
+https://leetcode.com/problems/defanging-an-ip-address/  
+[Swift Solution Done](https://github.com/danilovdev/LeetCodeProblems/blob/master/String/1108_Defanging_an_IP_Address/Swift/1108_Defanging_an_IP_Address.playground/Contents.swift)
 
 30) 16 of July 2019   
 424.Longest Repeating Character Replacement  
