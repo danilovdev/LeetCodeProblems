@@ -138,7 +138,10 @@ https://leetcode.com/problems/kth-largest-element-in-an-array/
 [Swift Solution Done](https://github.com/danilovdev/LeetCodeProblems/blob/master/Heap/215_Kth_Largest_Element_in_an_Array/Swift/215_Kth_Largest_Element_in_an_Array.playground/Contents.swift)
 
 27) 13 of July 2019  
-389.Find the Difference
+389.Find the Difference  
+https://leetcode.com/problems/find-the-difference/  
+[Swift Solution Done](https://github.com/danilovdev/LeetCodeProblems/blob/master/HashTable/389_Find_the_Difference/Swift/389_Find_the_Difference.playground/Contents.swift)
+
 
 28) 14 of July 2019  
 121.Best Time to Buy and Sell Stock
