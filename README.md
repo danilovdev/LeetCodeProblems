@@ -142,7 +142,6 @@ https://leetcode.com/problems/kth-largest-element-in-an-array/
 https://leetcode.com/problems/find-the-difference/  
 [Swift Solution Done](https://github.com/danilovdev/LeetCodeProblems/blob/master/HashTable/389_Find_the_Difference/Swift/389_Find_the_Difference.playground/Contents.swift)
 
-
 28) 14 of July 2019  
 121.Best Time to Buy and Sell Stock  
 https://leetcode.com/problems/best-time-to-buy-and-sell-stock/  
@@ -179,6 +178,18 @@ https://leetcode.com/problems/defanging-an-ip-address/
 
 37) 24 of July 2019  
 844.Backspace String Compare 
+
+38) 25 of July 2019  
+941.Valid Mountain Array  
+
+39) 26 of July 2019  
+844.Two Sum II - Input array is sorted 
+
+40) 27 of July 2019   
+628.Maximum Product of Three Numbers  
+
+
+
 
 
 
