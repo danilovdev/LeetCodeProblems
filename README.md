@@ -194,6 +194,19 @@ https://leetcode.com/problems/defanging-an-ip-address/
 42) 29 of July 2019  
 206.Reverse Linked List  
 
+43) 30 of July 2019  
+896.Monotonic Array 
+
+44) 31 of July 2019  
+1.Two Sum  
+
+45) 1 of August 2019  
+26.Remove Duplicates from Sorted Array  
+
+46) 2 of August 2019  
+617.Merge Two Binary Trees  
+
+
 
 
 
