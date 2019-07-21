@@ -188,6 +188,14 @@ https://leetcode.com/problems/defanging-an-ip-address/
 40) 27 of July 2019   
 628.Maximum Product of Three Numbers  
 
+41) 28 of July 2019  
+202.Happy Number   
+
+42) 29 of July 2019  
+206. Reverse Linked List  
+
+
+
 
 
 
