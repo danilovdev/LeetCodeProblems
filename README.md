@@ -199,6 +199,8 @@ https://leetcode.com/problems/defanging-an-ip-address/
 
 44) 31 of July 2019  
 1.Two Sum  
+https://leetcode.com/problems/two-sum/   
+[Swift Solution Done](https://github.com/danilovdev/LeetCodeProblems/blob/master/HashTable/1_Two_Sum/Swift/1_Two_Sum.playground/Contents.swift)
 
 45) 1 of August 2019  
 26.Remove Duplicates from Sorted Array  
