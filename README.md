@@ -195,7 +195,9 @@ https://leetcode.com/problems/defanging-an-ip-address/
 206.Reverse Linked List  
 
 43) 30 of July 2019  
-896.Monotonic Array 
+896.Monotonic Array  
+https://leetcode.com/problems/monotonic-array/  
+[Swift Solution Done](https://github.com/danilovdev/LeetCodeProblems/blob/master/Array/896_Monotonic_Array/Swift/896_Monotonic_Array.playground/Contents.swift)
 
 44) 31 of July 2019  
 1.Two Sum  
