@@ -216,6 +216,8 @@ https://leetcode.com/problems/two-sum/
 
 47) 3 of August 2019  
 226.Invert Binary Tree  
+https://leetcode.com/problems/invert-binary-tree/  
+[Swift Solution Done](https://github.com/danilovdev/LeetCodeProblems/blob/master/Tree/226_Invert_Binary_Tree/Swift/226_Invert_Binary_Tree.playground/Contents.swift)
 
 48) 4 of August 2019  
 162.Find Peak Element 
