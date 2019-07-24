@@ -220,6 +220,8 @@ https://leetcode.com/problems/two-sum/
 48) 4 of August 2019  
 162.Find Peak Element 
 
+49) 5 of August 2019  
+141.Linked List Cycle  
 
 
 
