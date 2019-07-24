@@ -181,6 +181,8 @@ https://leetcode.com/problems/defanging-an-ip-address/
 
 38) 25 of July 2019  
 941.Valid Mountain Array  
+https://leetcode.com/problems/valid-mountain-array/  
+[Swift Solution Done](https://github.com/danilovdev/LeetCodeProblems/blob/master/Array/941_Valid_Mountain_Array/Swift/941_Valid_Mountain_Array.playground/Contents.swift)
 
 39) 26 of July 2019  
 844.Two Sum II - Input array is sorted 
