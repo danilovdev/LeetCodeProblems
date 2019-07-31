@@ -225,5 +225,11 @@ https://leetcode.com/problems/invert-binary-tree/
 49) 5 of August 2019  
 141.Linked List Cycle  
 
+50) 6 of August 2019  
+70.Climbing Stairs  
+
+51) 7 of August 2019  
+989.Add to Array-Form of Integer
+
 
 
