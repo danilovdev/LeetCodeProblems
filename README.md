@@ -234,6 +234,11 @@ https://leetcode.com/problems/invert-binary-tree/
 52) 8 of August 2019  
 349.Intersection of Two Arrays  
 
+53) 9 of August 2019  
+520.Detect Capital  
+https://leetcode.com/problems/detect-capital/  
+[Swift Solution Done](https://github.com/danilovdev/LeetCodeProblems/blob/master/String/520_Detect_Capital/Swift/520_Detect_Capital.playground/Contents.swift)
+
 
 
 
