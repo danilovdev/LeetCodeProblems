@@ -239,6 +239,9 @@ https://leetcode.com/problems/invert-binary-tree/
 https://leetcode.com/problems/detect-capital/  
 [Swift Solution Done](https://github.com/danilovdev/LeetCodeProblems/blob/master/String/520_Detect_Capital/Swift/520_Detect_Capital.playground/Contents.swift)
 
+54) 10 of August 2019  
+14.Longest Common Prefix  
+
 
 
 
