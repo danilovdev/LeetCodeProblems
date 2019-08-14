@@ -244,8 +244,12 @@ https://leetcode.com/problems/detect-capital/
 https://leetcode.com/problems/longest-common-prefix/  
 [Swift Solution Done](https://github.com/danilovdev/LeetCodeProblems/blob/master/String/14_Longest_Common_Prefix/Swift/14_Longest_Common_Prefix.playground/Contents.swift)
 
-55) 11 of August 2020  
-414. Third Maximum Number  
+55) 11 of August 2019  
+414.Third Maximum Number  
+
+56) 12 of August 2019  
+283.Move Zeroes  
+
 
 
 
