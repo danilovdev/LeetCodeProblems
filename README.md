@@ -246,6 +246,7 @@ https://leetcode.com/problems/longest-common-prefix/
 
 55) 11 of August 2019  
 414.Third Maximum Number  
+https://leetcode.com/problems/third-maximum-number/  
 [Swift Solution Done](https://github.com/danilovdev/LeetCodeProblems/blob/master/Array/414_Third_Maximum_Number/Swift/414_Third_Maximum_Number.playground/Contents.swift)  
 [Java Solution Done](https://github.com/danilovdev/LeetCodeProblems/blob/master/Array/414_Third_Maximum_Number/Java/414_Third_Maximum_Number.java)
 
