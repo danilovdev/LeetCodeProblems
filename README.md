@@ -252,6 +252,9 @@ https://leetcode.com/problems/third-maximum-number/
 
 56) 12 of August 2019  
 283.Move Zeroes  
+https://leetcode.com/problems/move-zeroes/  
+[Swift Solution Done](https://github.com/danilovdev/LeetCodeProblems/blob/master/Array/283_Move_Zeroes/Swift/283_Move_Zeroes.playground/Contents.swift)  
+[Java Solution Done](https://github.com/danilovdev/LeetCodeProblems/blob/master/Array/283_Move_Zeroes/Java/283_Move_Zeroes.java)
 
 
 
