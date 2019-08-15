@@ -264,7 +264,9 @@ https://leetcode.com/problems/sort-array-by-parity/
 
 58) 14 of August 2019  
 832.Flipping an Image  
-
+https://leetcode.com/problems/flipping-an-image/  
+[Swift Solution Done](https://github.com/danilovdev/LeetCodeProblems/blob/master/Array/832_Flipping_an_Image/Swift/832_Flipping_an_Image.playground/Contents.swift)  
+[Java Solution Done](https://github.com/danilovdev/LeetCodeProblems/blob/master/Array/832_Flipping_an_Image/Java/832_Flipping_an_Image.java)
 
 
 
