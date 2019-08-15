@@ -258,6 +258,9 @@ https://leetcode.com/problems/move-zeroes/
 
 57) 13 of August 2019  
 905.Sort Array By Parity  
+https://leetcode.com/problems/sort-array-by-parity/  
+[Swift Solution Done](https://github.com/danilovdev/LeetCodeProblems/blob/master/Array/905_Sort_Array_By_Parity/Swift/905_Sort_Array_By_Parity.playground/Contents.swift)  
+[Java Solution Done](https://github.com/danilovdev/LeetCodeProblems/blob/master/Array/905_Sort_Array_By_Parity/Java/905_Sort_Array_By_Parity.java)
 
 
 
