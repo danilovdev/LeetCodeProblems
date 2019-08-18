@@ -274,8 +274,8 @@ https://leetcode.com/problems/flipping-an-image/
 62) 922.Sort Array By Parity II  
 63) 1122.Relative Sort Array  
 64) 950.Reveal Cards In Increasing Order  
-65) 704. Binary Search   
-66) 404. Sum of Left Leaves  
+65) 704.Binary Search   
+66) 404.Sum of Left Leaves  
 
 
 
