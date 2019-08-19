@@ -268,6 +268,12 @@ https://leetcode.com/problems/flipping-an-image/
 [Swift Solution Done](https://github.com/danilovdev/LeetCodeProblems/blob/master/Array/832_Flipping_an_Image/Swift/832_Flipping_an_Image.playground/Contents.swift)  
 [Java Solution Done](https://github.com/danilovdev/LeetCodeProblems/blob/master/Array/832_Flipping_an_Image/Java/832_Flipping_an_Image.java)
 
+59) 15 of August 2019  
+404.Sum of Left Leaves  
+https://leetcode.com/problems/sum-of-left-leaves/  
+[Swift Solution Done](https://github.com/danilovdev/LeetCodeProblems/blob/master/Tree/404_Sum_of_Left_Leaves/Swift/404_Sum_of_Left_Leaves.playground/Contents.swift)  
+[Java Solution Done](https://github.com/danilovdev/LeetCodeProblems/blob/master/Tree/404_Sum_of_Left_Leaves/Java/404_Sum_of_Left_Leaves.java)
+
 59) 977.Squares of a Sorted Array  
 60) 561.Array Partition I  
 61) 1051.Height Checker  
@@ -275,7 +281,7 @@ https://leetcode.com/problems/flipping-an-image/
 63) 1122.Relative Sort Array  
 64) 950.Reveal Cards In Increasing Order  
 65) 704.Binary Search   
-66) 404.Sum of Left Leaves  
+
 
 
 
