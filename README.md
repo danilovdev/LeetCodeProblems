@@ -274,8 +274,10 @@ https://leetcode.com/problems/sum-of-left-leaves/
 [Swift Solution Done](https://github.com/danilovdev/LeetCodeProblems/blob/master/Tree/404_Sum_of_Left_Leaves/Swift/404_Sum_of_Left_Leaves.playground/Contents.swift)  
 [Java Solution Done](https://github.com/danilovdev/LeetCodeProblems/blob/master/Tree/404_Sum_of_Left_Leaves/Java/404_Sum_of_Left_Leaves.java)
 
+60) 16 of August 2019 
+1160.Find Words That Can Be Formed by Characters  
+https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/ 
 
-60) 1047.Remove All Adjacent Duplicates In String 
 61) 1051.Height Checker  
 62) 922.Sort Array By Parity II  
 63) 1122.Relative Sort Array  
@@ -283,7 +285,7 @@ https://leetcode.com/problems/sum-of-left-leaves/
 65) 704.Binary Search  
 66) 561.Array Partition I  
 67) 977.Squares of a Sorted Array  
-
+68) 1047.Remove All Adjacent Duplicates In String 
 
 
 
