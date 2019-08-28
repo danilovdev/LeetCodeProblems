@@ -276,7 +276,9 @@ https://leetcode.com/problems/sum-of-left-leaves/
 
 60) 16 of August 2019  
 1160.Find Words That Can Be Formed by Characters  
-https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/ 
+https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/  
+[Swift Solution Done](https://github.com/danilovdev/LeetCodeProblems/blob/master/Array/1160_Find_Words_That_Can_Be_Formed_by_Characters/Swift/1160_Find_Words_That_Can_Be_Formed_by_Characters.playground/Contents.swift)  
+[Java Solution Done](https://github.com/danilovdev/LeetCodeProblems/blob/master/Array/1160_Find_Words_That_Can_Be_Formed_by_Characters/Java/1160_Find_Words_That_Can_Be_Formed_by_Characters.java)
 
 61) 1051.Height Checker  
 62) 922.Sort Array By Parity II  
