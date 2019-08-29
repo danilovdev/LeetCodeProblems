@@ -289,7 +289,8 @@ https://leetcode.com/problems/island-perimeter/
 62) 18 of August 2019  
 709.To Lower Case  
 https://leetcode.com/problems/to-lower-case/  
-
+[Swift Solution Done](https://github.com/danilovdev/LeetCodeProblems/blob/master/String/709_To_Lower_Case/Swift/709_To_Lower_Case.playground/Contents.swift)  
+[Java Solution Done](https://github.com/danilovdev/LeetCodeProblems/blob/master/String/709_To_Lower_Case/Java/709_To_Lower_Case.java)
 
 64) 922.Sort Array By Parity II  
 63) 1122.Relative Sort Array  
