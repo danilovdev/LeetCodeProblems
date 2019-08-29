@@ -286,7 +286,12 @@ https://leetcode.com/problems/island-perimeter/
 [Swift Solution Done](https://github.com/danilovdev/LeetCodeProblems/blob/master/HashTable/463_Island_Perimeter/Swift/463_Island_Perimeter.playground/Contents.swift)  
 [Java Solution Done](https://github.com/danilovdev/LeetCodeProblems/blob/master/HashTable/463_Island_Perimeter/Java/463_Island_Perimeter.java)
 
-62) 922.Sort Array By Parity II  
+62) 18 of August 2019  
+709.To Lower Case  
+https://leetcode.com/problems/to-lower-case/  
+
+
+64) 922.Sort Array By Parity II  
 63) 1122.Relative Sort Array  
 64) 950.Reveal Cards In Increasing Order  
 65) 704.Binary Search  
