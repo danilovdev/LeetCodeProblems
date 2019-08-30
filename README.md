@@ -294,9 +294,8 @@ https://leetcode.com/problems/to-lower-case/
 
 63) 19 of August 2019  
 231.Power of Two  
-https://leetcode.com/problems/power-of-two/  
-[Swift Solution Done]
-(https://github.com/danilovdev/LeetCodeProblems/blob/master/BitManipulation/231_Power_of_Two/Swift/231_Power_of_Two.playground/Contents.swift)  
+https://leetcode.com/problems/power-of-two/ 
+[Swift Solution Done](https://github.com/danilovdev/LeetCodeProblems/blob/master/BitManipulation/231_Power_of_Two/Swift/231_Power_of_Two.playground/Contents.swift)  
 [Java Solution Done](https://github.com/danilovdev/LeetCodeProblems/blob/master/BitManipulation/231_Power_of_Two/Java/231_Power_of_Two_Bit.java)
 
 64) 1122.Relative Sort Array  
