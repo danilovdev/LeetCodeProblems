@@ -292,7 +292,12 @@ https://leetcode.com/problems/to-lower-case/
 [Swift Solution Done](https://github.com/danilovdev/LeetCodeProblems/blob/master/String/709_To_Lower_Case/Swift/709_To_Lower_Case.playground/Contents.swift)  
 [Java Solution Done](https://github.com/danilovdev/LeetCodeProblems/blob/master/String/709_To_Lower_Case/Java/709_To_Lower_Case.java)
 
-63) 200.Number of Islands  
+63) 19 of August 2019  
+231.Power of Two  
+https://leetcode.com/problems/power-of-two/  
+(https://github.com/danilovdev/LeetCodeProblems/blob/master/BitManipulation/231_Power_of_Two/Swift/231_Power_of_Two.playground/Contents.swift)  
+[Java Solution Done](https://github.com/danilovdev/LeetCodeProblems/blob/master/BitManipulation/231_Power_of_Two/Java/231_Power_of_Two_Bit.java)
+
 64) 1122.Relative Sort Array  
 65) 950.Reveal Cards In Increasing Order  
 66) 704.Binary Search  
@@ -301,6 +306,7 @@ https://leetcode.com/problems/to-lower-case/
 69) 1047.Remove All Adjacent Duplicates In String 
 70) 1051.Height Checker 
 71) 922.Sort Array By Parity II  
+72) 200.Number of Islands  
 
 
 
