@@ -298,7 +298,7 @@ https://leetcode.com/problems/power-of-two/
 [Swift Solution Done](https://github.com/danilovdev/LeetCodeProblems/blob/master/BitManipulation/231_Power_of_Two/Swift/231_Power_of_Two.playground/Contents.swift)  
 [Java Solution Done](https://github.com/danilovdev/LeetCodeProblems/blob/master/BitManipulation/231_Power_of_Two/Java/231_Power_of_Two_Bit.java)
 
-64) 485. Max Consecutive Ones
+64) 485.Max Consecutive Ones
 65) 200.Number of Islands   
 66) 704.Binary Search  
 67) 561.Array Partition I  
