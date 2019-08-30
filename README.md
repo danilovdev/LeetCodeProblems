@@ -298,15 +298,16 @@ https://leetcode.com/problems/power-of-two/
 [Swift Solution Done](https://github.com/danilovdev/LeetCodeProblems/blob/master/BitManipulation/231_Power_of_Two/Swift/231_Power_of_Two.playground/Contents.swift)  
 [Java Solution Done](https://github.com/danilovdev/LeetCodeProblems/blob/master/BitManipulation/231_Power_of_Two/Java/231_Power_of_Two_Bit.java)
 
-64) 1122.Relative Sort Array  
-65) 950.Reveal Cards In Increasing Order  
+64) 485. Max Consecutive Ones
+65) 200.Number of Islands   
 66) 704.Binary Search  
 67) 561.Array Partition I  
 68) 977.Squares of a Sorted Array  
 69) 1047.Remove All Adjacent Duplicates In String 
 70) 1051.Height Checker 
 71) 922.Sort Array By Parity II  
-72) 200.Number of Islands  
+72) 1122.Relative Sort Array  
+73) 950.Reveal Cards In Increasing Order  
 
 
 
