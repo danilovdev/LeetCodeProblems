@@ -301,11 +301,16 @@ https://leetcode.com/problems/power-of-two/
 64) 20 of August 2019  
 461.Hamming Distance  
 https://leetcode.com/problems/hamming-distance/  
+[Swift Solution Done](https://github.com/danilovdev/LeetCodeProblems/blob/master/BitManipulation/461_Hamming_Distance/Swift/461_Hamming_Distance.playground/Contents.swift)  
+[Java Solution Done](https://github.com/danilovdev/LeetCodeProblems/blob/master/BitManipulation/461_Hamming_Distance/Java/461_Hamming_Distance.java)
 
+65) 21 of August 2019  
+200.Number of Islands   
+https://leetcode.com/problems/number-of-islands/  
+[Swift Solution Done](https://github.com/danilovdev/LeetCodeProblems/blob/master/DepthFirstSearch/200_Number_of_Islands/Swift/200_Number_of_Islands.playground/Contents.swift)  
+[Java Solution Done](https://github.com/danilovdev/LeetCodeProblems/blob/master/DepthFirstSearch/200_Number_of_Islands/Java/200_Number_of_Islands.java)
 
-65) 485.Max Consecutive Ones
-66) 200.Number of Islands   
-
+66) 485.Max Consecutive Ones
 67) 561.Array Partition I  
 68) 977.Squares of a Sorted Array  
 69) 1047.Remove All Adjacent Duplicates In String 
