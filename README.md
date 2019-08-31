@@ -298,9 +298,14 @@ https://leetcode.com/problems/power-of-two/
 [Swift Solution Done](https://github.com/danilovdev/LeetCodeProblems/blob/master/BitManipulation/231_Power_of_Two/Swift/231_Power_of_Two.playground/Contents.swift)  
 [Java Solution Done](https://github.com/danilovdev/LeetCodeProblems/blob/master/BitManipulation/231_Power_of_Two/Java/231_Power_of_Two_Bit.java)
 
-64) 485.Max Consecutive Ones
-65) 200.Number of Islands   
-66) 704.Binary Search  
+64) 20 of August 2019  
+461.Hamming Distance  
+https://leetcode.com/problems/hamming-distance/  
+
+
+65) 485.Max Consecutive Ones
+66) 200.Number of Islands   
+
 67) 561.Array Partition I  
 68) 977.Squares of a Sorted Array  
 69) 1047.Remove All Adjacent Duplicates In String 
@@ -308,7 +313,7 @@ https://leetcode.com/problems/power-of-two/
 71) 922.Sort Array By Parity II  
 72) 1122.Relative Sort Array  
 73) 950.Reveal Cards In Increasing Order  
-
+74) 704.Binary Search  
 
 
 
