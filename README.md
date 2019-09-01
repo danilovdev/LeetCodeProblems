@@ -325,6 +325,8 @@ https://leetcode.com/problems/evaluate-reverse-polish-notation/
 73) 950.Reveal Cards In Increasing Order  
 74) 704.Binary Search  
 75) 485.Max Consecutive Ones  
+76) 191.Number of 1 Bits  
+77) 155.Min Stack  
 
 
 
