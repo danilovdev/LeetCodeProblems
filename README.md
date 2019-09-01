@@ -327,6 +327,8 @@ https://leetcode.com/problems/evaluate-reverse-polish-notation/
 75) 485.Max Consecutive Ones  
 76) 191.Number of 1 Bits  
 77) 155.Min Stack  
+78) 232.Implement Queue using Stacks  
+79) 225.Implement Stack using Queues  
 
 
 
