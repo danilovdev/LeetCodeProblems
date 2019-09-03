@@ -324,7 +324,7 @@ https://leetcode.com/problems/max-consecutive-ones/
 
 68) 24 of August 2019  
 191.Number of 1 Bits  
-https://leetcode.com/problems/number-of-1-bits/
+https://leetcode.com/problems/number-of-1-bits/  
 [Java Solution 1 Done](https://github.com/danilovdev/LeetCodeProblems/blob/master/BitManipulation/191_Number_of_1_Bits/Java/191_Number_of_1_Bits_1.java)  
 [Java Solution 2 Done](https://github.com/danilovdev/LeetCodeProblems/blob/master/BitManipulation/191_Number_of_1_Bits/Java/191_Number_of_1_Bits_2.java)
 
