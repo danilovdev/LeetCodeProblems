@@ -316,7 +316,18 @@ https://leetcode.com/problems/evaluate-reverse-polish-notation/
 [Swift Solution Done](https://github.com/danilovdev/LeetCodeProblems/blob/master/Stack/150_Evaluate_Reverse_Polish_Notation/Swift/150_Evaluate_Reverse_Polish_Notation.playground/Contents.swift)  
 [Java Solution Done](https://github.com/danilovdev/LeetCodeProblems/blob/master/Stack/150_Evaluate_Reverse_Polish_Notation/Java/150_Evaluate_Reverse_Polish_Notation.java)
 
-67) 561.Array Partition I  
+67) 23 of August 2019  
+485.Max Consecutive Ones  
+https://leetcode.com/problems/max-consecutive-ones/  
+[Swift Solution Done]()  
+[Java Solution Done]()
+
+68) 24 of August 2019  
+191.Number of 1 Bits  
+https://leetcode.com/problems/number-of-1-bits/
+[Java Solution 1 Done](https://github.com/danilovdev/LeetCodeProblems/blob/master/BitManipulation/191_Number_of_1_Bits/Java/191_Number_of_1_Bits_1.java)  
+[Java Solution 2 Done](https://github.com/danilovdev/LeetCodeProblems/blob/master/BitManipulation/191_Number_of_1_Bits/Java/191_Number_of_1_Bits_2.java)
+
 68) 977.Squares of a Sorted Array  
 69) 1047.Remove All Adjacent Duplicates In String 
 70) 1051.Height Checker 
@@ -324,14 +335,13 @@ https://leetcode.com/problems/evaluate-reverse-polish-notation/
 72) 1122.Relative Sort Array  
 73) 950.Reveal Cards In Increasing Order  
 74) 704.Binary Search  
-75) 485.Max Consecutive Ones  
-76) 191.Number of 1 Bits  
+75) 104.Maximum Depth of Binary Tree  
+82) 110.Balanced Binary Tree 
 77) 155.Min Stack  
 78) 232.Implement Queue using Stacks  
 79) 225.Implement Stack using Queues  
 80) 371.Sum of Two Integers  
-81) 104.Maximum Depth of Binary Tree  
-82) 110.Balanced Binary Tree  
+81) 561.Array Partition I  
 
 
 
