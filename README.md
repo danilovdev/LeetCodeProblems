@@ -319,14 +319,26 @@ https://leetcode.com/problems/evaluate-reverse-polish-notation/
 67) 23 of August 2019  
 485.Max Consecutive Ones  
 https://leetcode.com/problems/max-consecutive-ones/  
-[Swift Solution Done]()  
-[Java Solution Done]()
+[Swift Solution Done](https://github.com/danilovdev/LeetCodeProblems/blob/master/Array/485_Max_Consecutive_Ones/Swift/485_Max_Consecutive_Ones.playground/Contents.swift)  
+[Java Solution Done](https://github.com/danilovdev/LeetCodeProblems/blob/master/Array/485_Max_Consecutive_Ones/Java/485_Max_Consecutive_Ones.java)
 
 68) 24 of August 2019  
 191.Number of 1 Bits  
 https://leetcode.com/problems/number-of-1-bits/  
 [Java Solution 1 Done](https://github.com/danilovdev/LeetCodeProblems/blob/master/BitManipulation/191_Number_of_1_Bits/Java/191_Number_of_1_Bits_1.java)  
 [Java Solution 2 Done](https://github.com/danilovdev/LeetCodeProblems/blob/master/BitManipulation/191_Number_of_1_Bits/Java/191_Number_of_1_Bits_2.java)
+
+69) 25 of August 2019  
+104.Maximum Depth of Binary Tree  
+https://leetcode.com/problems/maximum-depth-of-binary-tree/  
+[Java Solution Done](https://github.com/danilovdev/LeetCodeProblems/blob/master/DepthFirstSearch/104_Maximum_Depth_of_Binary_Tree/Java/104_Maximum_Depth_of_Binary_Tree.java)  
+[Swift Solution Done](https://github.com/danilovdev/LeetCodeProblems/blob/master/DepthFirstSearch/104_Maximum_Depth_of_Binary_Tree/Swift/104_Maximum_Depth_of_Binary_Tree.playground/Contents.swift)
+
+70) 26 of August 2019  
+371.Sum of Two Integers  
+https://leetcode.com/problems/sum-of-two-integers/  
+[Java Solution Done](https://github.com/danilovdev/LeetCodeProblems/blob/master/BitManipulation/371_Sum_of_Two_Integers/Java/371_Sum_of_Two_Integers.java)  
+[Swift Solution Done](https://github.com/danilovdev/LeetCodeProblems/blob/master/BitManipulation/371_Sum_of_Two_Integers/Swift/371_Sum_of_Two_Integers.playground/Contents.swift)
 
 68) 977.Squares of a Sorted Array  
 69) 1047.Remove All Adjacent Duplicates In String 
@@ -335,13 +347,11 @@ https://leetcode.com/problems/number-of-1-bits/
 72) 1122.Relative Sort Array  
 73) 950.Reveal Cards In Increasing Order  
 74) 704.Binary Search  
-75) 104.Maximum Depth of Binary Tree  
 82) 110.Balanced Binary Tree 
 77) 155.Min Stack  
 78) 232.Implement Queue using Stacks  
 79) 225.Implement Stack using Queues  
-80) 371.Sum of Two Integers  
-81) 561.Array Partition I  
+80) 561.Array Partition I  
 
 
 
