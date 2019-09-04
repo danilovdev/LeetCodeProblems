@@ -340,6 +340,18 @@ https://leetcode.com/problems/sum-of-two-integers/
 [Java Solution Done](https://github.com/danilovdev/LeetCodeProblems/blob/master/BitManipulation/371_Sum_of_Two_Integers/Java/371_Sum_of_Two_Integers.java)  
 [Swift Solution Done](https://github.com/danilovdev/LeetCodeProblems/blob/master/BitManipulation/371_Sum_of_Two_Integers/Swift/371_Sum_of_Two_Integers.playground/Contents.swift)
 
+71) 27 of August 2019  
+104.Maximum Depth of Binary Tree (BFS Solution)  
+https://leetcode.com/problems/maximum-depth-of-binary-tree/  
+[Java Solution Done](https://github.com/danilovdev/LeetCodeProblems/blob/master/BreadthFirstSearch/104_Maximum_Depth_of_Binary_Tree/Java/104_Maximum_Depth_of_Binary_Tree.java)  
+[Swift Solution Done](https://github.com/danilovdev/LeetCodeProblems/blob/master/BreadthFirstSearch/104_Maximum_Depth_of_Binary_Tree/Swift/104_Maximum_Depth_of_Binary_Tree.playground/Contents.swift)
+
+72) 28 of August 2019  
+482.License Key Formatting  
+https://leetcode.com/problems/license-key-formatting/  
+[Java Solution Done](https://github.com/danilovdev/LeetCodeProblems/blob/master/String/482_License_Key_Formatting/Java/482_License_Key_Formatting.java)  
+[Swift Solution Done](https://github.com/danilovdev/LeetCodeProblems/blob/master/String/482_License_Key_Formatting/Swift/482_License_Key_Formatting.playground/Contents.swift)
+
 68) 977.Squares of a Sorted Array  
 69) 1047.Remove All Adjacent Duplicates In String 
 70) 1051.Height Checker 
@@ -352,7 +364,7 @@ https://leetcode.com/problems/sum-of-two-integers/
 78) 232.Implement Queue using Stacks  
 79) 225.Implement Stack using Queues  
 80) 561.Array Partition I  
-81) 482.License Key Formatting  
+
 
 
 
