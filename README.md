@@ -369,6 +369,9 @@ https://leetcode.com/problems/license-key-formatting/
 83) 35.Search Insert Position   
 84) 76.Minimum Window Substring  
 85) 807.Max Increase to Keep City Skyline  
+86) 551.Student Attendance Record I  
+
+
 
 
 
