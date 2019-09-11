@@ -352,6 +352,12 @@ https://leetcode.com/problems/license-key-formatting/
 [Java Solution Done](https://github.com/danilovdev/LeetCodeProblems/blob/master/String/482_License_Key_Formatting/Java/482_License_Key_Formatting.java)  
 [Swift Solution Done](https://github.com/danilovdev/LeetCodeProblems/blob/master/String/482_License_Key_Formatting/Swift/482_License_Key_Formatting.playground/Contents.swift)
 
+73) 29 of August 2019  
+155.Min Stack  
+https://leetcode.com/problems/min-stack/  
+[Java Solution Done](https://github.com/danilovdev/LeetCodeProblems/blob/master/Stack/155_Min_Stack/Java/155_Min_Stack.java)  
+[Swift Solution Done](https://github.com/danilovdev/LeetCodeProblems/blob/master/Stack/155_Min_Stack/Swift/155_Min_Stack.playground/Contents.swift)
+
 68) 977.Squares of a Sorted Array  
 69) 1047.Remove All Adjacent Duplicates In String 
 70) 1051.Height Checker 
@@ -360,7 +366,7 @@ https://leetcode.com/problems/license-key-formatting/
 73) 950.Reveal Cards In Increasing Order  
 74) 704.Binary Search  
 82) 110.Balanced Binary Tree 
-77) 155.Min Stack  
+77) 152. Maximum Product Subarray  
 78) 232.Implement Queue using Stacks  
 79) 225.Implement Stack using Queues  
 80) 561.Array Partition I  
@@ -375,7 +381,7 @@ https://leetcode.com/problems/license-key-formatting/
 89) 819.Most Common Word  
 90) 394.Decode String  
 91) 189.Rotate Array 
-92) 152. Maximum Product Subarray  
+92) 551.Student Attendance Record I
 
 
 
