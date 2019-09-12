@@ -358,6 +358,14 @@ https://leetcode.com/problems/min-stack/
 [Java Solution Done](https://github.com/danilovdev/LeetCodeProblems/blob/master/Stack/155_Min_Stack/Java/155_Min_Stack.java)  
 [Swift Solution Done](https://github.com/danilovdev/LeetCodeProblems/blob/master/Stack/155_Min_Stack/Swift/155_Min_Stack.playground/Contents.swift)
 
+74) 30 of August 2019  
+64.Minimum Path Sum  
+https://leetcode.com/problems/minimum-path-sum/  
+https://leetcode.com/problems/min-stack/  
+[Java Solution Done](https://github.com/danilovdev/LeetCodeProblems/blob/master/DynamicProgramming/64_Minimum_Path_Sum/Java/64_Minimum_Path_Sum.java)  
+[Swift Solution Done](https://github.com/danilovdev/LeetCodeProblems/blob/master/DynamicProgramming/64_Minimum_Path_Sum/Swift/64_Minimum_Path_Sum.playground/Contents.swift)  
+
+
 68) 977.Squares of a Sorted Array  
 69) 1047.Remove All Adjacent Duplicates In String 
 70) 1051.Height Checker 
@@ -377,11 +385,11 @@ https://leetcode.com/problems/min-stack/
 85) 807.Max Increase to Keep City Skyline  
 86) 551.Student Attendance Record I  
 87) 1184.Distance Between Bus Stops  
-88) 64.Minimum Path Sum  
+88) 551.Student Attendance Record I
 89) 819.Most Common Word  
 90) 394.Decode String  
-91) 189.Rotate Array 
-92) 551.Student Attendance Record I
+91) 189.Rotate Array  
+
 
 
 
