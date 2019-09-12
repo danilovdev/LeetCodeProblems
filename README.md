@@ -387,7 +387,11 @@ https://leetcode.com/problems/minimum-path-sum/
 88) 551.Student Attendance Record I
 89) 819.Most Common Word  
 90) 394.Decode String  
-91) 189.Rotate Array  
+91) 189.Rotate Array 
+92) 746.Min Cost Climbing Stairs  
+93) 752.Open the Lock  
+94) 908.Smallest Range I  
+
 
 
 
