@@ -364,6 +364,12 @@ https://leetcode.com/problems/minimum-path-sum/
 [Java Solution Done](https://github.com/danilovdev/LeetCodeProblems/blob/master/DynamicProgramming/64_Minimum_Path_Sum/Java/64_Minimum_Path_Sum.java)  
 [Swift Solution Done](https://github.com/danilovdev/LeetCodeProblems/blob/master/DynamicProgramming/64_Minimum_Path_Sum/Swift/64_Minimum_Path_Sum.playground/Contents.swift)  
 
+75) 31 of August 2019  
+189.Rotate Array 
+https://leetcode.com/problems/rotate-array/  
+[Java Solution Done](https://github.com/danilovdev/LeetCodeProblems/blob/master/Array/189_Rotate_Array/Java/189_Rotate_Array.java)  
+[Swift Solution Done](https://github.com/danilovdev/LeetCodeProblems/blob/master/Array/189_Rotate_Array/Swift/189_Rotate_Array.playground/Contents.swift)  
+
 
 68) 977.Squares of a Sorted Array  
 69) 1047.Remove All Adjacent Duplicates In String 
@@ -387,7 +393,7 @@ https://leetcode.com/problems/minimum-path-sum/
 88) 551.Student Attendance Record I
 89) 819.Most Common Word  
 90) 394.Decode String  
-91) 189.Rotate Array 
+91) 
 92) 746.Min Cost Climbing Stairs  
 93) 752.Open the Lock  
 94) 908.Smallest Range I  
