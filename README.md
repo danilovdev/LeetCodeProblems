@@ -365,8 +365,8 @@ https://leetcode.com/problems/minimum-path-sum/
 [Swift Solution Done](https://github.com/danilovdev/LeetCodeProblems/blob/master/DynamicProgramming/64_Minimum_Path_Sum/Swift/64_Minimum_Path_Sum.playground/Contents.swift)  
 
 75) 31 of August 2019  
-189.Rotate Array 
-https://leetcode.com/problems/rotate-array/  
+189.Rotate Array  
+https://leetcode.com/problems/rotate-array/   
 [Java Solution Done](https://github.com/danilovdev/LeetCodeProblems/blob/master/Array/189_Rotate_Array/Java/189_Rotate_Array.java)  
 [Swift Solution Done](https://github.com/danilovdev/LeetCodeProblems/blob/master/Array/189_Rotate_Array/Swift/189_Rotate_Array.playground/Contents.swift)  
 
