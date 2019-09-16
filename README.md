@@ -169,6 +169,8 @@ https://leetcode.com/problems/defanging-an-ip-address/
 
 34) 21 of July 2019  
 257.Binary Tree Paths  
+https://leetcode.com/problems/binary-tree-paths/  
+
 
 35) 22 of July 2019  
 409.Longest Palindrome 
