@@ -401,6 +401,7 @@ https://leetcode.com/problems/rotate-array/
 93) 752.Open the Lock  
 94) 908.Smallest Range I  
 95) 989.Add to Array-Form of Integer  
+96) 290.Word Pattern  
 
 
 
