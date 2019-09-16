@@ -170,7 +170,8 @@ https://leetcode.com/problems/defanging-an-ip-address/
 34) 21 of July 2019  
 257.Binary Tree Paths  
 https://leetcode.com/problems/binary-tree-paths/  
-
+[Swift Solution Done](https://github.com/danilovdev/LeetCodeProblems/blob/master/Tree/257_Binary_Tree_Paths/Swift/257_Binary_Tree_Paths.playground/Contents.swift)  
+[Java Solution Done](https://github.com/danilovdev/LeetCodeProblems/blob/master/Tree/257_Binary_Tree_Paths/Java/257_Binary_Tree_Paths.java)
 
 35) 22 of July 2019  
 409.Longest Palindrome 
