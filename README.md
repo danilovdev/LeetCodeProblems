@@ -373,6 +373,11 @@ https://leetcode.com/problems/rotate-array/
 [Java Solution Done](https://github.com/danilovdev/LeetCodeProblems/blob/master/Array/189_Rotate_Array/Java/189_Rotate_Array.java)  
 [Swift Solution Done](https://github.com/danilovdev/LeetCodeProblems/blob/master/Array/189_Rotate_Array/Swift/189_Rotate_Array.playground/Contents.swift)  
 
+76) 1 of September of 2019  
+234.Palindrome Linked List  
+https://leetcode.com/problems/palindrome-linked-list/  
+[Java Solution Done](https://github.com/danilovdev/LeetCodeProblems/blob/master/LinkedList/234_Palindrome_Linked_List/Java/234_Palindrome_Linked_List.java)  
+[Swift Solution Done](https://github.com/danilovdev/LeetCodeProblems/blob/master/LinkedList/234_Palindrome_Linked_List/Swift/234_Palindrome_Linked_List.playground/Contents.swift) 
 
 68) 977.Squares of a Sorted Array  
 69) 1047.Remove All Adjacent Duplicates In String 
@@ -401,8 +406,7 @@ https://leetcode.com/problems/rotate-array/
 93) 752.Open the Lock  
 94) 908.Smallest Range I  
 95) 989.Add to Array-Form of Integer  
-96) 290.Word Pattern  
-97) 234.Palindrome Linked List  
+96) 290.Word Pattern    
 
 
 
