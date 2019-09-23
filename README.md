@@ -426,3 +426,6 @@ https://leetcode.com/problems/flood-fill/
 94) 908.Smallest Range I  
 95) 989.Add to Array-Form of Integer  
 96) 290.Word Pattern    
+97) 763.Partition Labels  
+98) 622.Design Circular Queue 
+
