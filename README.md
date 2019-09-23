@@ -379,6 +379,25 @@ https://leetcode.com/problems/palindrome-linked-list/
 [Java Solution Done](https://github.com/danilovdev/LeetCodeProblems/blob/master/LinkedList/234_Palindrome_Linked_List/Java/234_Palindrome_Linked_List.java)  
 [Swift Solution Done](https://github.com/danilovdev/LeetCodeProblems/blob/master/LinkedList/234_Palindrome_Linked_List/Swift/234_Palindrome_Linked_List.playground/Contents.swift) 
 
+77) 2 of September of 2019  
+657.Robot Return to Origin  
+https://leetcode.com/problems/robot-return-to-origin/  
+[Java Solution Done](https://github.com/danilovdev/LeetCodeProblems/blob/master/String/657_Robot_Return_to_Origin/Java/657_Robot_Return_to_Origin.java)  
+[Swift Solution Done](https://github.com/danilovdev/LeetCodeProblems/blob/master/String/657_Robot_Return_to_Origin/Swift/657_Robot_Return_to_Origin.playground/Contents.swift) 
+
+78) 3 of September of 2019  
+238.Product of Array Except Self  
+https://leetcode.com/problems/product-of-array-except-self/   
+[Java Solution 1 Done](https://github.com/danilovdev/LeetCodeProblems/blob/master/Array/238_Product_of_Array_Except_Self/Java/238_Product_of_Array_Except_Self_Solution_1.java)  
+[Java Solution 2 Done](https://github.com/danilovdev/LeetCodeProblems/blob/master/Array/238_Product_of_Array_Except_Self/Java/238_Product_of_Array_Except_Self_Solution_2.java)  
+[Swift Solutions Done](https://github.com/danilovdev/LeetCodeProblems/blob/master/Array/238_Product_of_Array_Except_Self/Swift/238_Product_of_Array_Except_Self.playground/Contents.swift) 
+
+79) 4 of September of 2019  
+733.Flood Fill  
+https://leetcode.com/problems/flood-fill/  
+[Java Solution Done](https://github.com/danilovdev/LeetCodeProblems/blob/master/DepthFirstSearch/733_Flood_Fill/Java/733_Flood_Fill.java)  
+[Swift Solution Done](https://github.com/danilovdev/LeetCodeProblems/blob/master/DepthFirstSearch/733_Flood_Fill/Swift/733_Flood_Fill.playground/Contents.swift) 
+
 68) 977.Squares of a Sorted Array  
 69) 1047.Remove All Adjacent Duplicates In String 
 70) 1051.Height Checker 
@@ -407,27 +426,3 @@ https://leetcode.com/problems/palindrome-linked-list/
 94) 908.Smallest Range I  
 95) 989.Add to Array-Form of Integer  
 96) 290.Word Pattern    
-97) 657.Robot Return to Origin  
-98) 733.Flood Fill  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
