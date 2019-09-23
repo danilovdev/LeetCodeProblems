@@ -428,4 +428,7 @@ https://leetcode.com/problems/flood-fill/
 96) 290.Word Pattern    
 97) 763.Partition Labels  
 98) 622.Design Circular Queue 
+99) 442.Find All Duplicates in an Array  
+100)
+
 
