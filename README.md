@@ -398,6 +398,14 @@ https://leetcode.com/problems/flood-fill/
 [Java Solution Done](https://github.com/danilovdev/LeetCodeProblems/blob/master/DepthFirstSearch/733_Flood_Fill/Java/733_Flood_Fill.java)  
 [Swift Solution Done](https://github.com/danilovdev/LeetCodeProblems/blob/master/DepthFirstSearch/733_Flood_Fill/Swift/733_Flood_Fill.playground/Contents.swift) 
 
+79) 5 of September of 2019  
+1189.Maximum Number of Balloons  
+https://leetcode.com/problems/maximum-number-of-balloons/  
+[Java Solution 1 Done](https://github.com/danilovdev/LeetCodeProblems/blob/master/HashTable/1189_Maximum_Number_of_Balloons/Java/1189_Maximum_Number_of_Balloons_Solution_1.java)  
+[Java Solution 2 Done](https://github.com/danilovdev/LeetCodeProblems/blob/master/HashTable/1189_Maximum_Number_of_Balloons/Java/1189_Maximum_Number_of_Balloons_Solution_2.java)  
+[Java Solution 3 Done](https://github.com/danilovdev/LeetCodeProblems/blob/master/HashTable/1189_Maximum_Number_of_Balloons/Java/1189_Maximum_Number_of_Balloons_Solution_3.java)  
+[Swift Solution Done](https://github.com/danilovdev/LeetCodeProblems/blob/master/HashTable/1189_Maximum_Number_of_Balloons/Swift/1189_Maximum_Number_of_Balloons.playground/Contents.swift) 
+
 68) 977.Squares of a Sorted Array  
 69) 1047.Remove All Adjacent Duplicates In String 
 70) 1051.Height Checker 
