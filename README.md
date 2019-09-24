@@ -432,5 +432,6 @@ https://leetcode.com/problems/flood-fill/
 100) 190.Reverse Bits  
 101) 125.Valid Palindrome  
 102) 1186.Maximum Subarray Sum with One Deletion  
+103) 1187.Make Array Strictly Increasing  
 
 
