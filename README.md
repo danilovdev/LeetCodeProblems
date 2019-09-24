@@ -437,5 +437,6 @@ https://leetcode.com/problems/flood-fill/
 105) 1201.Ugly Number III  
 106) 1202.Smallest String With Swaps  
 107) 1203.Sort Items by Groups Respecting Dependencies  
+108) 668.Kth Smallest Number in Multiplication Table  
 
 
