@@ -435,5 +435,6 @@ https://leetcode.com/problems/flood-fill/
 103) 1187.Make Array Strictly Increasing  
 104) 1200.Minimum Absolute Difference  
 105) 1201.Ugly Number III  
-106) 
+106) 1202.Smallest String With Swaps  
+
 
