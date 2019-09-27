@@ -450,6 +450,9 @@ https://leetcode.com/problems/maximum-number-of-balloons/
 110) 525.Contiguous Array  
 111) 8.Rotate Image  
 112) 735.Asteroid Collision  
+113) 7.Reverse Integer  
+114)
+
 
 
 
