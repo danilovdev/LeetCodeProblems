@@ -90,9 +90,9 @@ https://leetcode.com/problems/missing-number/
 18) 3 of July 2019    
 198.House Robber  
 https://leetcode.com/problems/house-robber/   
-[Swift Solution Done](https://github.com/danilovdev/LeetCodeProblems/blob/master/DynamicProgramming/198_House_Robber/Swift/198_House_Robber.playground/Contents.swift)
-[Java Solution 1 Done](https://github.com/danilovdev/LeetCodeProblems/blob/master/DynamicProgramming/198_House_Robber/Java/198_House_Robber_Solution1.java) 
-[Java Solution 2 Done](https://github.com/danilovdev/LeetCodeProblems/blob/master/DynamicProgramming/198_House_Robber/Java/198_House_Robber_Solution2.java) 
+[Swift Solution Done](https://github.com/danilovdev/LeetCodeProblems/blob/master/DynamicProgramming/198_House_Robber/Swift/198_House_Robber.playground/Contents.swift)  
+[Java Solution 1 Done](https://github.com/danilovdev/LeetCodeProblems/blob/master/DynamicProgramming/198_House_Robber/Java/198_House_Robber_Solution1.java)  
+[Java Solution 2 Done](https://github.com/danilovdev/LeetCodeProblems/blob/master/DynamicProgramming/198_House_Robber/Java/198_House_Robber_Solution2.java)  
 
 19) 4 of July 2019  
 300.Longest Increasing Subsequence  
