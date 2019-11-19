@@ -411,6 +411,10 @@ https://leetcode.com/problems/maximum-number-of-balloons/
 80) 6 of September of 2019  
 108.Convert Sorted Array to Binary Search Tree  
 https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/  
+[Java Solution Done](https://github.com/danilovdev/LeetCodeProblems/blob/master/Tree/108_Convert_Sorted_Array_to_Binary_Search_Tree/Java/108_Convert_Sorted_Array_to_Binary_Search_Tree.java)  
+[Swift Solution Done](https://github.com/danilovdev/LeetCodeProblems/blob/master/Tree/108_Convert_Sorted_Array_to_Binary_Search_Tree/Swift/108_Convert_Sorted_Array_to_Binary_Search_Tree.playground/Contents.swift) 
+
+
 
 68) 977.Squares of a Sorted Array  
 69) 1047.Remove All Adjacent Duplicates In String 
