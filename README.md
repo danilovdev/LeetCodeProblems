@@ -66,6 +66,11 @@ https://leetcode.com/problems/plus-one/
 387.First Unique Character in a String  
 https://leetcode.com/problems/first-unique-character-in-a-string/  
 [Swift Solution Done](https://github.com/danilovdev/LeetCodeProblems/blob/master/HashTable/387_First_Unique_Character_in_a_String/Swift/387_First_Unique_Character_in_a_String.playground/Contents.swift)
+[Java Solution 1 Done](https://github.com/danilovdev/LeetCodeProblems/blob/master/String/387_First_Unique_Character_in_a_String/Java/387_First_Unique_Character_in_a_String_Solution_1.java)
+[Java Solution 2 Done](https://github.com/danilovdev/LeetCodeProblems/blob/master/String/387_First_Unique_Character_in_a_String/Java/387_First_Unique_Character_in_a_String_Solution_2.java)
+[Java Solution 3 Done](https://github.com/danilovdev/LeetCodeProblems/blob/master/String/387_First_Unique_Character_in_a_String/Java/387_First_Unique_Character_in_a_String_Solution_3.java)
+[Java Solution 4 Done](https://github.com/danilovdev/LeetCodeProblems/blob/master/String/387_First_Unique_Character_in_a_String/Java/387_First_Unique_Character_in_a_String_Solution_4.java)
+[Java Solution 5 Done](https://github.com/danilovdev/LeetCodeProblems/blob/master/String/387_First_Unique_Character_in_a_String/Java/387_First_Unique_Character_in_a_String_Solution_5.java)
 
 14) 29 of June 2019  
 384.Shuffle an Array  
