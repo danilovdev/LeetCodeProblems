@@ -420,7 +420,7 @@ https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/
 [Swift Solution Done](https://github.com/danilovdev/LeetCodeProblems/blob/master/Tree/108_Convert_Sorted_Array_to_Binary_Search_Tree/Swift/108_Convert_Sorted_Array_to_Binary_Search_Tree.playground/Contents.swift) 
 
 81) 22 of March of 2020  
-735. Asteroid Collision  
+735.Asteroid Collision  
 https://leetcode.com/problems/asteroid-collision/   
 [Java Solution Done](https://github.com/danilovdev/LeetCodeProblems/blob/master/Stack/735_Asteroid_Collision/Java/735_Asteroid_Collision.java)  
 [Swift Solution Done](https://github.com/danilovdev/LeetCodeProblems/blob/master/Stack/735_Asteroid_Collision/Swift/735_Asteroid_Collision.playground/Contents.swift)
