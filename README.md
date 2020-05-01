@@ -477,9 +477,10 @@ https://leetcode.com/problems/asteroid-collision/
 116) 1207.Unique Number of Occurrences  
 117) 168.Excel Sheet Column Title  
 
-82) 1 of May of 2020  
-735.Maximum Product of Three Numbers  
-https://leetcode.com/problems/maximum-product-of-three-numbers/ 
-[Java Solution Done](https://github.com/danilovdev/LeetCodeProblems/blob/master/Math/628_Maximum_Product_of_Three_Numbers/Java/628_Maximum_Product_of_Three_Numbers.java)  
+82) 1 of May of 2020	
+735.Maximum Product of Three Numbers	
+https://leetcode.com/problems/maximum-product-of-three-numbers/
+
+[Java Solution Done](https://github.com/danilovdev/LeetCodeProblems/blob/master/Math/628_Maximum_Product_of_Three_Numbers/Java/628_Maximum_Product_of_Three_Numbers.java)	
 [Swift Solution Done](https://github.com/danilovdev/LeetCodeProblems/blob/master/Math/628_Maximum_Product_of_Three_Numbers/Swift/628_Maximum_Product_of_Three_Numbers.playground/Contents.swift)
 
