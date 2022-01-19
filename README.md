@@ -439,6 +439,14 @@ https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/
 [Java Solution Done](https://github.com/danilovdev/LeetCodeProblems/blob/master/Tree/109_Convert_Sorted_List_to_Binary_Search_Tree/Java/109_Convert_Sorted_List_to_Binary_Search_Tree.java)  
 [Swift Solution Done](https://github.com/danilovdev/LeetCodeProblems/blob/master/Tree/109_Convert_Sorted_List_to_Binary_Search_Tree/Swift/109_Convert_Sorted_List_to_Binary_Search_Tree.playground/Contents.swift)
 
+84) 19 of January of 2022  
+637.Average of Levels in Binary Tree  
+https://leetcode.com/problems/average-of-levels-in-binary-tree/ 
+[Solution Done](https://github.com/danilovdev/LeetCodeProblems/tree/master/Tree/637_Average_of_Levels_in_Binary_Tree)
+
+
+
+
 68) 977.Squares of a Sorted Array  
 69) 1047.Remove All Adjacent Duplicates In String 
 70) 1051.Height Checker 
