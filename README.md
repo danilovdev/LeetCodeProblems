@@ -441,7 +441,7 @@ https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/
 
 84) 19 of January of 2022  
 637.Average of Levels in Binary Tree  
-https://leetcode.com/problems/average-of-levels-in-binary-tree/ 
+https://leetcode.com/problems/average-of-levels-in-binary-tree/  
 [Solution Done](https://github.com/danilovdev/LeetCodeProblems/tree/master/Tree/637_Average_of_Levels_in_Binary_Tree)
 
 
